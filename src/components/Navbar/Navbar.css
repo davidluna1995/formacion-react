@@ -1,0 +1,23 @@
+.navbar{
+    width: 100vw;
+    height: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: aqua;
+}
+
+ul{
+    list-style-type: none;
+    margin: 5px;
+}
+
+li a{
+    text-decoration: none;
+    margin: 0px 5px;
+    font-weight: bold;
+}
+
+li a:hover{
+    color: blue;
+}
